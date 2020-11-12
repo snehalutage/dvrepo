@@ -1,20 +1,68 @@
 {
-	"OTCs" : 
-	[
-	{"Analgesics" : ["acetaminophen", "aspirin", "ibuprofen", "naproxen"]},
-	{"Cough cold and Antihistamines" : ["loratadine","pseudophedrine", "cetirizine","fexofenadine","chlorpheniramine","dimenhydramine","diphenhydramine","doxylamine","guaifenesin"]},
-	{"Anti-Diarrheal" : ["loperamide", "kaolin-pectin", "bismuth subsalicylate","Zantac","Pepcid"]},
-	{"Vitamins, Minerals & Supplements" : ["cranberry", "coenzyme Q10","generic calcium ± vitamin D", "melatonin",
-"iron supplements", "vitamin C (ascorbic acid)",
-"multivitamins ±",
-
-"niacin",
-"oral electrolyte solution","vitamin A (Retinol)",
-"omega-3 fish oil", "vitamin D (calciferol)"
-"magnesium salts", "vitamin D(ergocalciferol)",
-"All generic B vitamins", "Reno caps",
-"vitamin E", "zinc"]},
-	{"Decongestant" : ["Nasal Decongestant","Afrin nasal spray"]},
-	{"Sore Throat" : ["Cepacol", "vicks vapdrop lozenge"]},
-	]
+   "OTCs": [
+      {
+         "Analgesics": [
+            "acetaminophen",
+            "aspirin",
+            "ibuprofen",
+            "naproxen"
+         ]
+      },
+      {
+         "Cough cold and Antihistamines": [
+            "loratadine",
+            "pseudophedrine",
+            "cetirizine",
+            "fexofenadine",
+            "chlorpheniramine",
+            "dimenhydramine",
+            "diphenhydramine",
+            "doxylamine",
+            "guaifenesin"
+         ]
+      },
+      {
+         "Anti-Diarrheal": [
+            "loperamide",
+            "kaolin-pectin",
+            "bismuth subsalicylate",
+            "Zantac",
+            "Pepcid"
+         ]
+      },
+      {
+         "Vitamins, Minerals & Supplements": [
+            "cranberry",
+            "coenzyme Q10",
+            "generic calcium ± vitamin D",
+            "melatonin",
+            "iron supplements",
+            "vitamin C (ascorbic acid)",
+            "multivitamins ±",
+            "niacin",
+            "oral electrolyte solution",
+            "vitamin A (Retinol)",
+            "omega-3 fish oil",
+            "vitamin D (calciferol)",
+            "magnesium salts",
+            "vitamin D(ergocalciferol)",
+            "All generic B vitamins",
+            "Reno caps",
+            "vitamin E",
+            "zinc"
+         ]
+      },
+      {
+         "Decongestant": [
+            "Nasal Decongestant",
+            "Afrin nasal spray"
+         ]
+      },
+      {
+         "Sore Throat": [
+            "Cepacol",
+            "vicks vapdrop lozenge"
+         ]
+      }
+   ]
 }
