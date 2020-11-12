@@ -1,7 +1,8 @@
 {
-   "OTCs": [
+   "OTCs":[
       {
-         "Analgesics": [
+         "type":"Analgesics",
+         "value":[
             "acetaminophen",
             "aspirin",
             "ibuprofen",
@@ -9,7 +10,8 @@
          ]
       },
       {
-         "Cough cold and Antihistamines": [
+         "type":"Cough cold and Antihistamines",
+         "value":[
             "loratadine",
             "pseudophedrine",
             "cetirizine",
@@ -22,7 +24,8 @@
          ]
       },
       {
-         "Anti-Diarrheal": [
+         "type":"Anti-Diarrheal",
+         "value":[
             "loperamide",
             "kaolin-pectin",
             "bismuth subsalicylate",
@@ -31,7 +34,8 @@
          ]
       },
       {
-         "Vitamins, Minerals & Supplements": [
+         "type":"Vitamins, Minerals & Supplements",
+         "value":[
             "cranberry",
             "coenzyme Q10",
             "generic calcium ± vitamin D",
@@ -53,13 +57,15 @@
          ]
       },
       {
-         "Decongestant": [
+         "type":"Decongestant",
+         "value":[
             "Nasal Decongestant",
             "Afrin nasal spray"
          ]
       },
       {
-         "Sore Throat": [
+         "type":"Sore Throat",
+         "value":[
             "Cepacol",
             "vicks vapdrop lozenge"
          ]
