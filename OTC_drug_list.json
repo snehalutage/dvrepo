@@ -3,71 +3,71 @@
       {
          "type":"Analgesics",
          "value":[
-            "acetaminophen",
-            "aspirin",
-            "ibuprofen",
-            "naproxen"
+            "ACETAMINOPHEN",
+            "ASPIRIN",
+            "IBUPROFEN",
+            "NAPROXEN"
          ]
       },
       {
          "type":"Cough cold and Antihistamines",
          "value":[
-            "loratadine",
-            "pseudophedrine",
-            "cetirizine",
-            "fexofenadine",
-            "chlorpheniramine",
-            "dimenhydramine",
-            "diphenhydramine",
-            "doxylamine",
-            "guaifenesin"
+            "LORATADINE",
+            "PSEUDOPHEDRINE",
+            "CETIRIZINE",
+            "FEXOFENADINE",
+            "CHLORPHENIRAMINE",
+            "DIMENHYDRAMINE",
+            "DIPHENHYDRAMINE",
+            "DOXYLAMINE",
+            "GUAIFENESIN"
          ]
       },
       {
          "type":"Anti-Diarrheal",
          "value":[
-            "loperamide",
-            "kaolin-pectin",
-            "bismuth subsalicylate",
-            "Zantac",
-            "Pepcid"
+            "LOPERAMIDE",
+            "KAOLIN-PECTIN",
+            "BISMUTH SUBSALICYLATE",
+            "ZANTAC",
+            "PEPCID"
          ]
       },
       {
          "type":"Vitamins, Minerals & Supplements",
          "value":[
-            "cranberry",
-            "coenzyme Q10",
-            "generic calcium ± vitamin D",
-            "melatonin",
-            "iron supplements",
-            "vitamin C (ascorbic acid)",
-            "multivitamins ±",
-            "niacin",
-            "oral electrolyte solution",
-            "vitamin A (Retinol)",
-            "omega-3 fish oil",
-            "vitamin D (calciferol)",
-            "magnesium salts",
-            "vitamin D(ergocalciferol)",
-            "All generic B vitamins",
-            "Reno caps",
-            "vitamin E",
-            "zinc"
+            "CRANBERRY",
+            "COENZYME Q10",
+            "GENERIC CALCIUM ± VITAMIN D",
+            "MELATONIN",
+            "IRON SUPPLEMENTS",
+            "VITAMIN C (ASCORBIC ACID)",
+            "MULTIVITAMINS ±",
+            "NIACIN",
+            "ORAL ELECTROLYTE SOLUTION",
+            "VITAMIN A (RETINOL)",
+            "OMEGA-3 FISH OIL",
+            "VITAMIN D (CALCIFEROL)",
+            "MAGNESIUM SALTS",
+            "VITAMIN D(ERGOCALCIFEROL)",
+            "ALL GENERIC B VITAMINS",
+            "RENO CAPS",
+            "VITAMIN E",
+            "ZINC"
          ]
       },
       {
          "type":"Decongestant",
          "value":[
-            "Nasal Decongestant",
-            "Afrin nasal spray"
+            "NASAL DECONGESTANT",
+            "AFRIN NASAL SPRAY"
          ]
       },
       {
          "type":"Sore Throat",
          "value":[
-            "Cepacol",
-            "vicks vapdrop lozenge"
+            "CEPACOL",
+            "VICKS VAPDROP LOZENGE"
          ]
       }
    ]
