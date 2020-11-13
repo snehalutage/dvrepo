@@ -13,11 +13,8 @@
          "type":"Cough cold and Antihistamines",
          "value":[
             "LORATADINE",
-            "PSEUDOPHEDRINE",
             "CETIRIZINE",
             "FEXOFENADINE",
-            "CHLORPHENIRAMINE",
-            "DIMENHYDRAMINE",
             "DIPHENHYDRAMINE",
             "DOXYLAMINE",
             "GUAIFENESIN"
@@ -27,47 +24,26 @@
          "type":"Anti-Diarrheal",
          "value":[
             "LOPERAMIDE",
-            "KAOLIN-PECTIN",
-            "BISMUTH SUBSALICYLATE",
-            "ZANTAC",
-            "PEPCID"
+            "ZANTAC"
          ]
       },
       {
-         "type":"Vitamins, Minerals & Supplements",
+         "type":"Vitamins",
          "value":[
-            "CRANBERRY",
-            "COENZYME Q10",
-            "GENERIC CALCIUM ± VITAMIN D",
-            "MELATONIN",
-            "IRON SUPPLEMENTS",
-            "VITAMIN C (ASCORBIC ACID)",
-            "MULTIVITAMINS ±",
             "NIACIN",
-            "ORAL ELECTROLYTE SOLUTION",
-            "VITAMIN A (RETINOL)",
-            "OMEGA-3 FISH OIL",
-            "VITAMIN D (CALCIFEROL)",
-            "MAGNESIUM SALTS",
-            "VITAMIN D(ERGOCALCIFEROL)",
-            "ALL GENERIC B VITAMINS",
-            "RENO CAPS",
-            "VITAMIN E",
-            "ZINC"
+            "RENO CAPS"
          ]
       },
       {
          "type":"Decongestant",
          "value":[
-            "NASAL DECONGESTANT",
-            "AFRIN NASAL SPRAY"
+            "NASAL DECONGESTANT"
          ]
       },
       {
          "type":"Sore Throat",
          "value":[
-            "CEPACOL",
-            "VICKS VAPDROP LOZENGE"
+            "CEPACOL"
          ]
       }
    ]
