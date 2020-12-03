@@ -1,0 +1,114 @@
+h1
+{
+  font-family: Georgia, sans-serif;
+  color:#0e04d1
+}
+h4
+{
+  font-size: 18px;
+  line-height: 20px;
+  font-family: Georgia, sans-serif;
+  color:#0e04d1;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/*Create 2 columns to float next to each other*/
+.column {
+  float: left;
+  padding: 5px;
+}
+
+.left 
+{
+  display:flex;
+  flex-direction: column;;
+  width: 50%;
+} 
+
+.right
+{
+  display:flex;
+  flex-direction: column;;
+  width: 50%;
+}
+
+table 
+{
+  border-collapse: collapse;
+  font-size: 0.6em;
+  font-family: sans-serif;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  height:100px;
+  width:50px;
+} 
+
+th
+{
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+}
+
+tr
+{
+  border-bottom: 1px solid #dddddd;
+  background-color: #f3f3f3;
+}
+
+tr.highlight
+{
+  background: MistyRose;
+}
+
+li 
+ {
+	float: left;
+	width: 20em;
+  list-style-type: none;
+ }
+
+  path {
+  fill: none;
+ 
+  }
+
+  /*#chart circle:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+   /* -webkit-transform: scale(1.5); /* Safari 3-8 */
+   /* transform: scale(1.5); 
+  }*/
+  
+  
+  .grid-lines line {
+    stroke: gray;
+    stroke-opacity: 0.2;
+  }
+
+td.highlight 
+{
+	background: orange;
+}
+
+tr.highlight 
+{
+	background: orange;
+}
+
+circle.highlight 
+{
+  stroke: black;
+  stroke-width : 3px;
+}
+
+path.line.highlight
+{
+  stroke-width : 7px;
+}
+
+li.highlight 
+{
+	background: orange;
+}
