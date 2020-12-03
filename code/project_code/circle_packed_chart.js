@@ -1,10 +1,10 @@
 function circle_packed_chart(data,divId,width,height)
 {
   
-  console.log(data)
+  console.log("Bubble Chart Data :",data)
   var years = [...new Set( data.map(obj => obj.group)) ];
   var years = years.map(Number);
-  console.log(years)
+  //console.log(years)
 
   pack = data => d3.pack()
     .size([width - 2, height - 2])
@@ -13,8 +13,6 @@ function circle_packed_chart(data,divId,width,height)
     .sum(d => d.value))
 
   const root = pack(data);
-  console.log(root)
-  console.log(root.children)
 
   color = d3.scaleOrdinal(data.map(d => d.group), d3.schemeCategory10)
 

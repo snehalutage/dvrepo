@@ -3,9 +3,10 @@ h1
   font-family: Georgia, sans-serif;
   color:#0e04d1
 }
+
 h4
 {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 20px;
   font-family: Georgia, sans-serif;
   color:#0e04d1;
@@ -16,7 +17,8 @@ h4
 }
 
 /*Create 2 columns to float next to each other*/
-.column {
+.column 
+{
   float: left;
   padding: 5px;
 }
@@ -38,11 +40,11 @@ h4
 table 
 {
   border-collapse: collapse;
-  font-size: 0.6em;
+  font-size: 0.9em;
   font-family: sans-serif;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
   height:100px;
-  width:50px;
+  width:60px;
 } 
 
 th
@@ -70,22 +72,16 @@ li
   list-style-type: none;
  }
 
-  path {
+path 
+{
   fill: none;
- 
-  }
+ }
 
-  /*#chart circle:hover {
-    -ms-transform: scale(1.5); /* IE 9 */
-   /* -webkit-transform: scale(1.5); /* Safari 3-8 */
-   /* transform: scale(1.5); 
-  }*/
-  
-  
-  .grid-lines line {
-    stroke: gray;
-    stroke-opacity: 0.2;
-  }
+.grid-lines line 
+{
+  stroke: gray;
+  stroke-opacity: 0.2;
+}
 
 td.highlight 
 {
@@ -105,7 +101,8 @@ circle.highlight
 
 path.line.highlight
 {
-  stroke-width : 7px;
+  stroke-width : 5px;
+  opacity:1;
 }
 
 li.highlight 
